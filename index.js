@@ -3,11 +3,6 @@ const app = express();
 
 app.set("view engine", "html");
 
-app.get("/home", (req, res) => {
-    //rendering index.ejs page
-    res.render("index");
-});
-
 const routerDeliv = require("./routes/routing")
 app.use("/routing", routerDeliv);
 
