@@ -1,0 +1,22 @@
+{
+  "name": "webdevfinal",
+  "version": "1.0.0",
+  "description": "Ian Guy\r CS410 - Intro to Web Dev\r This repo will be used for the final project of the CS410 introduction to web development class.",
+  "main": "routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzerDime/webdevFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzerDime/webdevFinal/issues"
+  },
+  "homepage": "https://github.com/AzerDime/webdevFinal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
