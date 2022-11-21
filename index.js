@@ -10,4 +10,4 @@ app.get("home", routerDeliv);
 app.get("contact", routerDeliv);
 app.get("prevWorkProj", routerDeliv);
 
-app.listen(5500);
+//app.listen(5500);
