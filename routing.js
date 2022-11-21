@@ -1,0 +1,1 @@
+//will use js for routing between HTML files when GET from onclicks
