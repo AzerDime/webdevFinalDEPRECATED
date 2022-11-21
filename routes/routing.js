@@ -3,15 +3,15 @@ const express = require("express");
 const router = express.Router();
 
 router.get("/home", (req, res) => {
-    res.render("/index");
+    res.render("./index");
 });
 
 router.get("/contact", (req, res) => {
-    res.render("/contact");
+    res.render("./contact");
 });
 
 router.get("/prevWorkProj", (req, res) => {
-    res.render("/prevWorkProj");
+    res.render("./prevWorkProj");
 });
 
 module.exports = router;
