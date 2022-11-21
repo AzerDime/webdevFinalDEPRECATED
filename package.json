@@ -2,7 +2,7 @@
   "name": "webdevfinal",
   "version": "1.0.0",
   "description": "Ian Guy\r CS410 - Intro to Web Dev\r This repo will be used for the final project of the CS410 introduction to web development class.",
-  "main": "routing.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
