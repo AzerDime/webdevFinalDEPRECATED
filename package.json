@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/AzerDime/webdevFinal/issues"
   },
-  "homepage": "https://github.com/AzerDime/webdevFinal#readme",
+  "homepage": "https://github.com/AzerDime/webdevFinal#index",
   "dependencies": {
     "express": "^4.18.2"
   }
