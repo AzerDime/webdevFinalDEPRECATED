@@ -4,6 +4,7 @@
   "description": "Ian Guy\r CS410 - Intro to Web Dev\r This repo will be used for the final project of the CS410 introduction to web development class.",
   "main": "index.js",
   "scripts": {
+    "devStart": "nodemon -e js,ejs index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/AzerDime/webdevFinal#index",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
